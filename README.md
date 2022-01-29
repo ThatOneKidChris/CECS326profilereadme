@@ -5,7 +5,7 @@ Part of Github Fundamental optional steps for CECS 326 class.
 > I am interested in learning more about the class and especially getting accustomed to using Github more frequently.
 
 ## Hobbies ⌨️
-- Playing viedo games (Valorant, Apex Legends, Pokemon, Smash + more)
+- Playing video games (Valorant, Apex Legends, Pokemon, Smash + more)
 - Building custom keyboards (it is a very expensive rabbit hole.)
 - Eating
 
